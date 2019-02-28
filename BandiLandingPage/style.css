@@ -544,6 +544,10 @@ color: #062033;
   text-transform: uppercase;
 }
 /*form*/
+.lets_discuss{
+  max-width: 1600px;
+  margin: 0 auto;
+}
 .lets_discuss h3{
   font-size: 28px;
   color: #0eb493;
